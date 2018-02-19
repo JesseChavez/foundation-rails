@@ -2,6 +2,10 @@
 
 Foundation::Rails is a gem to make it super easy to use Foundation in your upcoming Rails project. You can start using Foundation::Rails in your projects by following the instructions below.
 
+## Documentation
+
+* [Foundation 5 docs](https://foundation.zurb.com/sites/docs/v/5.5.3/)
+
 ## Installation
 
 Add this line to your application's Gemfile:
